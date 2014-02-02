@@ -1,0 +1,10 @@
+{
+	"name": "pgCore",
+	"description": "Core module for wrapping PhoneGap function",
+	"repo": "Wizcorp/phonegap-wrapper-Core",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
